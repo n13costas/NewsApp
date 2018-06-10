@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base font sizes. -->
+    <dimen name="fontXSmall">8sp</dimen>
+    <dimen name="fontSmall">12sp</dimen>
+    <dimen name="fontMedium">16sp</dimen>
+    <dimen name="fontLarge">20sp</dimen>
+    <dimen name="fontXLarge">24sp</dimen>
+    <dimen name="fontXXLarge">28sp</dimen>
+    <dimen name="fontXXXLarge">32sp</dimen>
+
+    <!-- Base space sizes. -->
+    <dimen name="spaceXSmall">8dp</dimen>
+    <dimen name="spaceSmall">12dp</dimen>
+    <dimen name="spaceMedium">16dp</dimen>
+    <dimen name="spaceLarge">20dp</dimen>
+    <dimen name="spaceXLarge">24dp</dimen>
+    <dimen name="spaceXXLarge">28dp</dimen>
+    <dimen name="spaceXXXLarge">32dp</dimen>
+
+</resources>
