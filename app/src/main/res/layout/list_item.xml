@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/news_section"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tooltipText="Section"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/colorAccent"/>
+
+        <TextView
+            android:id="@+id/news_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tooltipText="Title"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/news_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tooltipText="Author"
+            android:textColor="@color/colorAccent"/>
+
+        <TextView
+            android:id="@+id/news_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:tooltipText="Published Date"
+            android:textColor="@color/colorPrimary"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
