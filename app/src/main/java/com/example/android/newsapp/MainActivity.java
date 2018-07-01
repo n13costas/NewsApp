@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //open the news list
+        // Open the article list activity
         TextView startButton = findViewById(R.id.startView);
         startButton.setOnClickListener(new View.OnClickListener() {
             @Override
